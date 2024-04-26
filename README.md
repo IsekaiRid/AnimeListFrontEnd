@@ -41,10 +41,5 @@ This template provides a minimal setup to get React working in Vite with Hot Mod
 - **ESLint Integration**: Catch errors and enforce coding standards with ESLint.
 - **Official Plugins**: Choose between [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) for Babel-based Fast Refresh or [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) for SWC-based Fast Refresh.
 
-## Getting Started
 
-To use this template, simply click the "Use this template" button on GitHub or clone the repository using:
-
-```bash
-git clone https://github.com/your-username/react-vite-template.git
 
